@@ -8,4 +8,4 @@ streamlit.text('塞Kale, Spinach & Rocket Smothie ')
 streamlit.text('Hard-Boiled Free-Range Egg ')
 streamlit.text('陋陋 Avacado Toast ')
 
-streamlit.text(' Build Your Own Fruit Smothie ')
+streamlit.Header(' Build Your Own Fruit Smothie ')
